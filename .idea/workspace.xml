@@ -14,8 +14,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TrainWreck/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="49" lean-forward="true" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+            <state relative-caret-position="170">
+              <caret line="67" column="43" lean-forward="false" selection-start-line="67" selection-start-column="43" selection-end-line="67" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -24,25 +24,39 @@
       <file leaf-file-name="Computer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TrainWreck/src/Computer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="57" column="28" lean-forward="true" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+            <state relative-caret-position="379">
+              <caret line="86" column="17" lean-forward="true" selection-start-line="86" selection-start-column="17" selection-end-line="86" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#444#445#0" expanded="true" />
-                <element signature="e#488#489#0" expanded="true" />
-                <element signature="e#538#539#0" expanded="true" />
-                <element signature="e#586#587#0" expanded="true" />
-                <element signature="e#640#641#0" expanded="true" />
-                <element signature="e#682#683#0" expanded="true" />
-                <element signature="e#721#722#0" expanded="true" />
-                <element signature="e#753#754#0" expanded="true" />
-                <element signature="e#806#807#0" expanded="true" />
-                <element signature="e#848#849#0" expanded="true" />
-                <element signature="e#898#899#0" expanded="true" />
-                <element signature="e#933#934#0" expanded="true" />
-                <element signature="e#1656#1657#0" expanded="true" />
-                <element signature="e#1683#1684#0" expanded="true" />
+                <element signature="e#514#515#0" expanded="true" />
+                <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#608#609#0" expanded="true" />
+                <element signature="e#656#657#0" expanded="true" />
+                <element signature="e#710#711#0" expanded="true" />
+                <element signature="e#752#753#0" expanded="true" />
+                <element signature="e#791#792#0" expanded="true" />
+                <element signature="e#823#824#0" expanded="true" />
+                <element signature="e#876#877#0" expanded="true" />
+                <element signature="e#918#919#0" expanded="true" />
+                <element signature="e#968#969#0" expanded="true" />
+                <element signature="e#1003#1004#0" expanded="true" />
+                <element signature="e#2248#2249#0" expanded="true" />
+                <element signature="e#2283#2284#0" expanded="true" />
+                <element signature="e#2326#2327#0" expanded="true" />
+                <element signature="e#2362#2363#0" expanded="true" />
+                <element signature="e#2410#2411#0" expanded="true" />
+                <element signature="e#2440#2441#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SoundFile.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TrainWreck/src/SoundFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="47" lean-forward="true" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -50,8 +64,8 @@
       <file leaf-file-name="Hardware.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TrainWreck/src/Hardware.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+            <state relative-caret-position="34">
+              <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -70,19 +84,23 @@
       <file leaf-file-name="SoundCard.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TrainWreck/src/SoundCard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+            <state relative-caret-position="457">
+              <caret line="27" column="64" lean-forward="false" selection-start-line="27" selection-start-column="64" selection-end-line="27" selection-end-column="64" />
               <folding>
-                <element signature="e#157#158#0" expanded="true" />
-                <element signature="e#195#196#0" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
-                <element signature="e#280#281#0" expanded="true" />
-                <element signature="e#336#337#0" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
-                <element signature="e#424#425#0" expanded="true" />
-                <element signature="e#451#452#0" expanded="true" />
-                <element signature="e#493#494#0" expanded="true" />
-                <element signature="e#556#557#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#317#318#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+                <element signature="e#774#775#0" expanded="true" />
+                <element signature="e#809#810#0" expanded="true" />
+                <element signature="e#852#853#0" expanded="true" />
+                <element signature="e#888#889#0" expanded="true" />
+                <element signature="e#936#937#0" expanded="true" />
+                <element signature="e#966#967#0" expanded="true" />
+                <element signature="e#1008#1009#0" expanded="true" />
+                <element signature="e#1071#1072#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -91,8 +109,8 @@
       <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TrainWreck/src/Player.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+            <state relative-caret-position="51">
+              <caret line="3" column="56" lean-forward="false" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -103,8 +121,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -117,9 +135,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/TrainWreck/src/Recorder.java" />
-        <option value="$PROJECT_DIR$/TrainWreck/src/Hardware.java" />
-        <option value="$PROJECT_DIR$/TrainWreck/src/Player.java" />
         <option value="$PROJECT_DIR$/TrainWreck/src/USB.java" />
+        <option value="$PROJECT_DIR$/TrainWreck/src/Hardware.java" />
+        <option value="$PROJECT_DIR$/TrainWreck/src/SoundFile.java" />
+        <option value="$PROJECT_DIR$/TrainWreck/src/Player.java" />
         <option value="$PROJECT_DIR$/TrainWreck/src/SoundCard.java" />
         <option value="$PROJECT_DIR$/TrainWreck/src/Computer.java" />
         <option value="$PROJECT_DIR$/TrainWreck/src/Main.java" />
@@ -303,15 +322,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -331,43 +351,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/TrainWreck/src/Computer.java</url>
-          <line>65</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TrainWreck/src/Recorder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TrainWreck/src/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TrainWreck/src/Hardware.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TrainWreck/src/USB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -376,53 +364,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TrainWreck/src/SoundCard.java">
+    <entry file="file://$PROJECT_DIR$/TrainWreck/src/Recorder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TrainWreck/src/Hardware.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TrainWreck/src/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="56" lean-forward="false" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TrainWreck/src/SoundFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="47" lean-forward="true" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TrainWreck/src/SoundCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="27" column="64" lean-forward="false" selection-start-line="27" selection-start-column="64" selection-end-line="27" selection-end-column="64" />
           <folding>
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#809#810#0" expanded="true" />
+            <element signature="e#852#853#0" expanded="true" />
+            <element signature="e#888#889#0" expanded="true" />
+            <element signature="e#936#937#0" expanded="true" />
+            <element signature="e#966#967#0" expanded="true" />
+            <element signature="e#1008#1009#0" expanded="true" />
+            <element signature="e#1071#1072#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TrainWreck/src/Computer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="57" column="28" lean-forward="true" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+        <state relative-caret-position="379">
+          <caret line="86" column="17" lean-forward="true" selection-start-line="86" selection-start-column="17" selection-end-line="86" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#586#587#0" expanded="true" />
-            <element signature="e#640#641#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#721#722#0" expanded="true" />
-            <element signature="e#753#754#0" expanded="true" />
-            <element signature="e#806#807#0" expanded="true" />
-            <element signature="e#848#849#0" expanded="true" />
-            <element signature="e#898#899#0" expanded="true" />
-            <element signature="e#933#934#0" expanded="true" />
-            <element signature="e#1656#1657#0" expanded="true" />
-            <element signature="e#1683#1684#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#752#753#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+            <element signature="e#968#969#0" expanded="true" />
+            <element signature="e#1003#1004#0" expanded="true" />
+            <element signature="e#2248#2249#0" expanded="true" />
+            <element signature="e#2283#2284#0" expanded="true" />
+            <element signature="e#2326#2327#0" expanded="true" />
+            <element signature="e#2362#2363#0" expanded="true" />
+            <element signature="e#2410#2411#0" expanded="true" />
+            <element signature="e#2440#2441#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TrainWreck/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="49" lean-forward="true" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+        <state relative-caret-position="170">
+          <caret line="67" column="43" lean-forward="false" selection-start-line="67" selection-start-column="43" selection-end-line="67" selection-end-column="43" />
           <folding />
         </state>
       </provider>

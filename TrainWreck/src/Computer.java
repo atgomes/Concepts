@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.Collection;
+import java.util.logging.Logger;
 
 public class Computer implements Player, Recorder {
 
@@ -11,6 +12,8 @@ public class Computer implements Player, Recorder {
 
     // #1
     private SoundCard soundCard;
+
+    private boolean enabled = true;
 
     public Computer() {
         playerComponents = new ArrayList<>();
@@ -69,11 +72,37 @@ public class Computer implements Player, Recorder {
                 return;
             }
         }
+        System.out.println("No playback devices available");
+    }
+
+    @Override
+    public void playSound(SoundFile soundFile) {
+        for (Player p : playerComponents) {
+            if (p.isEnabled()) {
+                try {
+                    p.playSound(soundFile);
+                    return;
+                } catch (Exception ex) {
+                    Logger.getAnonymousLogger().warning(ex.getMessage());
+                }
+            }
+        }
+        System.out.println("No capable playback devices available");
+    }
+
+    @Override
+    public void enable() {
+        this.enabled = true;
+    }
+
+    @Override
+    public void disable() {
+        this.enabled = false;
     }
 
     @Override
     public boolean isEnabled() {
-        return true;
+        return enabled;
     }
 
     @Override
